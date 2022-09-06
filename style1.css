@@ -1,0 +1,8 @@
+.card {
+    background-color: bisque;
+    text-align: center;
+    width: 500px;
+}
+#dish-name {
+    color: aliceblue;
+}
